@@ -22,7 +22,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex-1 lg:flex-none flex justify-center">
             <a href="#home" className="flex items-center">
-              <img src={logoJovisa} alt="Jovisa Logo" className="h-16 w-auto" />
+              <img src={logoJovisa} alt="Jovisa Logo" className="h-200 w-auto" />
             </a>
           </div>
 
