@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Heart } from "lucide-react";
-import logoJovisa from "@/assets/logo-jovisa.png";
+import logoJovisa from "@/assets/LogoJovisa.png";
 
 const Contact = () => {
   return (

@@ -1,5 +1,5 @@
 import { Facebook, Twitter, Instagram, Youtube } from "lucide-react";
-import logoJovisa from "@/assets/logo-jovisa.png";
+import logoJovisa from "@/assets/LogoJovisa.png";
 
 const Footer = () => {
   return (

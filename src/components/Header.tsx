@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
-import logoJovisa from "@/assets/jovisalogo.png";
+import logoJovisa from "@/assets/JovisaLogo.png";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
