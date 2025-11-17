@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-8">
           {/* Logo */}
           <div className="flex items-center">
-            <img src={logoJovisa} alt="Jovisa Logo" className="h-15 w-auto" />
+            <img src={logoJovisa} alt="Jovisa Logo" className="h-16 w-auto" />
           </div>
 
           {/* Contact Info */}
