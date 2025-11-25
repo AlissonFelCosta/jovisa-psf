@@ -8,7 +8,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 const testimonials = [
   {
     name: "LUCAS PEREIRA",
-    role: "Coordenador do 8º Jovem de Piranguinho e do 10º Sagrada Família",
+    role: "Coordenador do 7º Jovisa de Piranguinho e do 10º Jovisa da Paróquia Sagrada Família",
     text: "Eu lhe dei vinte mil réis pra pagar três e trezentos você tem que me voltar dezesseis e setecentos dezessete e setecentos dezesseis e setecentos"
   },
   {

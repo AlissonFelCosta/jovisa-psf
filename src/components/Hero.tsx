@@ -25,13 +25,8 @@ const Hero = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
           <div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-light tracking-tight">
-              MOMENTOS<br />ESPERADOS
+              SOMOS PARA DEUS O BOM PERFUME DE CRISTO
             </h1>
-          </div>
-          <div>
-            <h2 className="text-4xl md:text-5xl lg:text-6xl font-playfair italic font-light tracking-tight">
-              CRIANDO<br />MEMÓRIAS
-            </h2>
           </div>
         </div>
 
