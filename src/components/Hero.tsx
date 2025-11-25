@@ -23,10 +23,13 @@ const Hero = () => {
       <div className="container mx-auto px-4 max-w-7xl">
         {/* Titles */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
-          <div>
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-light tracking-tight">
+          <div className="flex flex-col">
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-light tracking-tight whitespace-nowrap">
               SOMOS PARA DEUS O BOM PERFUME DE CRISTO
             </h1>
+            <p className="text-right text-sm mt-2 pr-1 opacity-80">
+              2 Coríntios 2:15
+            </p>
           </div>
         </div>
 
