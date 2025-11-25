@@ -13,7 +13,7 @@ const Contact = () => {
               DEIXA UM<br />COMENTÁRIO
             </h2>
 
-            <p className="text-sm text-background/80 leading-relaxed mb-12 max-w-lg">
+            <p className="text-sm text-background/80 leading-relaxed mb-20 max-w-lg">
               Nós, da Paróquia Sagrada Família, temos o nosso PADLET! Lá você pode compartilhar uma foto sua, 
               informar seu nome, a data do seu aniversário, seu santo de devoção e deixar um feedback: pode ser 
               a música de animação que mais gostou, a música mais marcante para você ou até mesmo uma palestra 
