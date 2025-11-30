@@ -7,6 +7,11 @@ export interface DriveFile {
   createdTime: string;
 }
 
+export interface DriveFolder {
+  id: string;
+  name: string;
+}
+
 export interface DriveResponse {
   files: DriveFile[];
   nextPageToken?: string;
